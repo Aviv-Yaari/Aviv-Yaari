@@ -1,6 +1,6 @@
 ### Hi there! 👋
-My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer.
-### Contact me:
+My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer. #opentowork
+### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zohar-haruv-a6690b210/)](https://www.linkedin.com/in/aviv-yaari-8a797a197/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoharpr0@gmail.com)](mailto:avivyar0@gmail.com)
 ## 💻 Technologies I've worked with:
@@ -23,18 +23,6 @@ My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aviv-Yaari&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviv-Yaari&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aviv-Yaari.Aviv-Yaari)
-<!--
-**Aviv-Yaari/Aviv-Yaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Netflix clone using react.
+- 👯 I’m looking to collaborate on exciting frontend projects, contact me.
+- ⚡ Fun fact: wrote my first code when I was around 12 y/o using the almighty Visual Basic
