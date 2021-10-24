@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer. #opentowork
+My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer. #opentowork  
 Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.com/)
 
 ### How to reach me:
