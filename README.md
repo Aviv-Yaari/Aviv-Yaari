@@ -2,7 +2,7 @@
 My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer. #opentowork  
 Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.com/).
 ## Contact me:  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zohar-haruv-a6690b210/)](https://www.linkedin.com/in/aviv-yaari-8a797a197/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoharpr0@gmail.com)](mailto:avivyar0@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aviv-yaari-8a797a197/)](https://www.linkedin.com/in/aviv-yaari-8a797a197/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avivyar0@gmail.com)](mailto:avivyar0@gmail.com)
 ## Technologies I've worked with:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
