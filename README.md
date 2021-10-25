@@ -23,6 +23,6 @@ Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aviv-Yaari&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviv-Yaari&hide=TeX&layout=compact)
 
-- 🔭 I’m currently working on a Netflix clone using react.
+- 🔭 I’m currently working on an [Instagram clone](https://github.com/Aviv-Yaari/instagram-clone) using react.
 - 👯 I’m looking to collaborate on exciting frontend projects, contact me.
 - ⚡ Fun fact: wrote my first code when I was around 12 y/o using the almighty Visual Basic
