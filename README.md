@@ -12,6 +12,7 @@ Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.
 ![ReactNative](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
 ![SCSS](https://img.shields.io/badge/-SCSS-purple?style=flat-square&logo=scss)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-563D7C?style=flat-square&logo=styledcomponents)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
