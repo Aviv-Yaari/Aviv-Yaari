@@ -1,6 +1,5 @@
 # Hi there! 👋
-My name is Aviv and I'm a junior Full-Stack / Front-End Web Developer. #opentowork  
-Check out my latest project: [Swello - a Trello Clone](https://swello.herokuapp.com/).
+My name is Aviv and I'm a Full-Stack / Front-End Web Developer. #opentowork  
 ## Contact me:  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aviv-yaari-8a797a197/)](https://www.linkedin.com/in/aviv-yaari-8a797a197/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avivyar@gmail.com)](mailto:avivyar@gmail.com)
 ## Technologies I've worked with:  
